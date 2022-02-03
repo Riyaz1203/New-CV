@@ -115,8 +115,9 @@ p {
 }
 
 .footer-link {
-  color: #11999E;
+  color: #313552 ;
 line-height: 3;
+font-size: 150%;
 padding: 0 20px;
 }
 
